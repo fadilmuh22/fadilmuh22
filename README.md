@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Fadil Muh, I love writing code, specializing in backend development, froendtend web development and mobile multi-platform app using flutter
+Hi, I'm Fadil Muh, I love writing code, specializing in backend development, frontend web development and mobile multi-platform app using flutter
 
 
 **About me**
