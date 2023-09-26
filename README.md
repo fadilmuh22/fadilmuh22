@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Fadil Muh, I love writing code, specializing in backend development, frontend web development and mobile multi-platform app using flutter
+Hi, I'm Fadil Muh, I love writing code, specializing in backend development, frontend web development, and mobile multi-platform apps using Flutter
 
 
 **About me**
@@ -47,5 +47,5 @@ Hi, I'm Fadil Muh, I love writing code, specializing in backend development, fro
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linux/linux.png"></code>
 
 
-| <a href="https://github.com/fadilmuh22"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fadilmuh22&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="fadilmuh22 github stats" /></a> | <a href="https://github.com/fadilmuh22"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilmuh22&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| <a href="https://github.com/fadilmuh22">![fadilmuh22](https://github-readme-stats.vercel.app/api?username=fadilmuh22&show_icons=true&theme=gruvbox&hide_border=true)</a> | <a href="https://github.com/fadilmuh22"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilmuh22&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
